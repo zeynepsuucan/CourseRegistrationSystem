@@ -1,0 +1,2 @@
+homework3: main.cpp LinkedList.h Node.h Student.cpp Course.cpp LinkedListDouble.h NodeDouble.h RegistrationSystem.cpp
+	g++ -o homework3 main.cpp LinkedList.h Node.h Student.cpp Course.cpp LinkedListDouble.h RegistrationSystem.cpp NodeDouble.h -I.
